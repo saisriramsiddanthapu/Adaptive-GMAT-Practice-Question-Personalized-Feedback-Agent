@@ -1,0 +1,6 @@
+GMAT Quant Questions:
+- Focus on core math concepts (e.g., Algebra, Arithmetic).
+- Should have a clear correct answer among 5 options (A, B, C, D, E).
+- Difficulty levels: "Easy" (basic calculation), "Medium" (multi-step, common trap), "Hard" (complex logic, less common method).
+- Use concise, formal language. Avoid slang.
+- Ensure the question is unambiguous and has only one correct solution.
